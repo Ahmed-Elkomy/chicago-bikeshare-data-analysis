@@ -1,6 +1,6 @@
 # us-bikeshare-data-analysis
 
-This is interactive too for applying deep data analysis on US bike share. It was part from Udacity nano-degree projects that I have finished and submitted.
+This is interactive tool for applying deep data analysis on US bike share. It was part from Udacity nano-degree projects that I have finished and submitted.
 
 You can find the details of the project below:
 ----------------------------------------------
