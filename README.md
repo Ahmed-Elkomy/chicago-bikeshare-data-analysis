@@ -1,4 +1,10 @@
 # us-bikeshare-data-analysis
+
+This is interactive too for applying deep data analysis on US bike share. It was part from Udacity nano-degree projects that I have finished and submitted.
+
+You can find the details of the project below:
+----------------------------------------------
+
 Bike Share Data
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
 
